@@ -1,0 +1,9 @@
+.wrapper {
+  max-width: 1200px;
+  margin: 0 auto 30px;
+  width: 100%;
+  .boxes {
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
